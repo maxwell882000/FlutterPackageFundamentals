@@ -36,7 +36,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
+  assets:
+   - assets/locale/
+   - assets/icons/
+   - assets/images/
+   - assets/review/
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
