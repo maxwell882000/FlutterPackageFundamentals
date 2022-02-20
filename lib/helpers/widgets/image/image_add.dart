@@ -13,6 +13,7 @@ class ImageAdd extends ImageNetwork {
                 child: const CircularProgressIndicator(),
               ),
             ),
+            fit:fit,
             path: path,
             size: size);
 }
