@@ -18,7 +18,7 @@ dependencies:
   http:
   google_maps_flutter: 
   getwidget: ^2.0.4
-  permission_handler: ^8.1.6
+  permission_handler: any
   url_launcher: ^6.0.10
   carousel_slider: ^4.0.0
   flutter_localizations:
